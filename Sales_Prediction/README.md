@@ -1,3 +1,23 @@
-# Sales Prediction
+# Sales Prediction Using Python
 
-This folder contains my CodSoft Task 4 project.
+## CODSOFT Data Science Internship - Task 4
+
+### Project Description
+This project predicts product sales using machine learning based on advertising expenditure across different media platforms.
+
+### Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Dataset
+- advertising.csv
+
+### Algorithm
+- Linear Regression
+
+### Author
+Rathod Dhirendra
